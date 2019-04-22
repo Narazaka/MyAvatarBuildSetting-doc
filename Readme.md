@@ -2,13 +2,13 @@
 
 VRChat用Unityエディタ拡張「[MyAvatarBuildSetting]()」のドキュメントです。
 
-- [MyAvatarBuildSettingとは](#user-content-MyAvatarBuildSettingとは)
+- [MyAvatarBuildSettingとは](#user-content-myavatarbuildsettingとは)
 - [入手方法](#user-content-入手方法)
 - [使用方法](#user-content-使用方法)
 - [アバタービルド設定ツール](#user-content-アバタービルド設定ツール)
 - [アバター一括アップロードツール](#user-content-アバター一括アップロードツール)
-- [設定（グローバル）](#user-content-設定（グローバル）)
-- [設定（個別）](#user-content-設定（個別）)
+- [設定（グローバル）](#user-content-設定グローバル)
+- [設定（個別）](#user-content-設定個別)
 - [利用規約](#user-content-利用規約)
 
 ## MyAvatarBuildSettingとは
