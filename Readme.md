@@ -13,7 +13,7 @@ VRChat用Unityエディタ拡張「[MyAvatarBuildSetting]()」のドキュメン
 
 ## MyAvatarBuildSettingとは
 
-**MyAvatarBuildSetting**は、VRChatで単一モデルのアバターを複数の設定で利用することを補助するエディタ拡張です。
+**MyAvatarBuildSetting**は、VRChatで単一モデルのアバターを複数の設定で一括自動アップロード出来るエディタ拡張です。
 
 - 衣装や装備パーツを変える
 - シェイプキーを変える
