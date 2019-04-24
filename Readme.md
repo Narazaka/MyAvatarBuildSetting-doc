@@ -1,6 +1,6 @@
 # MyAvatarBuildSetting ドキュメント
 
-VRChat用Unityエディタ拡張「[MyAvatarBuildSetting]()」のドキュメントです。
+VRChat用Unityエディタ拡張「[MyAvatarBuildSetting](https://narazaka.booth.pm/items/1327703)」のドキュメントです。
 
 - [MyAvatarBuildSettingとは](#myavatarbuildsettingとは)
 - [特徴](#特徴)
