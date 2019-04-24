@@ -83,6 +83,8 @@ MyAvatarBuildSettingは、これらを設定で管理して適用するツール
 
    ![アップロード1](upload1.png)
 
+   ここで複数の設定を選ぶと全てが連続自動アップロード出来ます。
+
 ## 全体設定
 
 MyAvatarBuildSettingの
