@@ -87,8 +87,6 @@ MyAvatarBuildSettingは、これらを設定で管理して適用するツール
 
 ## 全体設定
 
-MyAvatarBuildSettingの
-
 - オブジェクトの表示オンオフ管理
 - シェイプキー値管理
 - シェーダー一括変更
