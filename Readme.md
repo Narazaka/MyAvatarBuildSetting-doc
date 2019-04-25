@@ -12,7 +12,7 @@ VRChat用Unityエディタ拡張「[MyAvatarBuildSetting](https://narazaka.booth
 - [注意事項](#注意事項)
   - [シーンやマテリアルが変更されます！](#シーンやマテリアルが変更されます)
   - [パッチについて](#パッチについて)
-  - [新規アバターアップロード後のblueprint id更新](#新規アバターアップロード後のblueprint%20id更新)
+  - [新規アバターアップロード後のblueprint id更新](#新規アバターアップロード後のblueprint-id更新)
 - [利用規約](#利用規約)
 
 ## MyAvatarBuildSettingとは
