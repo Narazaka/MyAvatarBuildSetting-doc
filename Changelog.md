@@ -1,5 +1,12 @@
 # MyAvatarBuildSetting 変更履歴
 
+## v4.0.0
+
+### 機能追加
+
+- Avatars3.0（VRCSDK3 for Avatar）で動作するように修正
+- オンオフパーツ・切り替えパーツが非アクティブの時にEditorOnlyタグを指定してアップロード内容を削減するオプションを追加
+
 ## v3.0.2
 
 ### バグ修正
