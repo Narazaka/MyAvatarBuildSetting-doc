@@ -1,5 +1,15 @@
 # MyAvatarBuildSetting 変更履歴
 
+## v5.0.0
+
+### 機能追加
+
+- Playable LayersとExpression Menuを制御出来る機能を追加
+- どこからも参照されていなさそうなボーンを自動的にEditorOnlyにする機能を追加
+- オンオフパーツ・切り替えパーツで無効時EditorOnly指定がある場合に初期表示activeを変更出来るように
+- オンオフパーツ・切り替えパーツの並べ替えを便利に
+- UIにシンプルモード追加
+
 ## v4.0.0
 
 ### 機能追加
