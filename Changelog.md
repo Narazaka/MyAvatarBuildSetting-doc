@@ -1,5 +1,11 @@
 # MyAvatarBuildSetting 変更履歴
 
+## v5.2.0
+
+### 対応環境追加
+
+- VCC（VRChat Creater Companion / VRChat SDK - Avatars 3系）に対応
+
 ## v5.1.0
 
 ### 機能更新
