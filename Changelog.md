@@ -1,5 +1,9 @@
 # MyAvatarBuildSetting 変更履歴
 
+## v6.3.3
+
+- キャンセルボタンの挙動を改善
+
 ## v6.3.2
 
 - VRCSDK 3.7.6 対応
